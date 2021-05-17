@@ -60,7 +60,7 @@
                     <?php
                         prikaziSliku();
                     ?>
-                    </div>
+                </div>
             </div>
 
             <!-- Left and right controls -->
